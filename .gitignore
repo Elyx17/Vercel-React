@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /public/json/productos.json
+/.vscode
 
 # testing
 /coverage
